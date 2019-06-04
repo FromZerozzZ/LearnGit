@@ -1,4 +1,2 @@
 # LearnGit
-Hello ChuMengYang
-This is your first repository
-Fighting
+Hello ChuMengYang,This is your first repository.
